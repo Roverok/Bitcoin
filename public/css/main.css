@@ -1,0 +1,22 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.login_block {
+	background-color:white;
+	position: fixed;
+	min-width: 300px;
+	top:20%;
+	right: 35%;
+	left:35%;
+	padding:20px;
+	border: 1px solid #424242;
+	box-shadow: 3px 3px 3px 0px #424242;
+}
+
+.login_body {
+	height: 1080px;
+	overflow:hidden;
+	background: linear-gradient(to bottom, #606c88 0%,#3f4c6b 100%);
+}
